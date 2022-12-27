@@ -1,4 +1,4 @@
-DOB=1999;
+DOB=2000;
 age=2022-DOB;
 if(age>=13 && age<19){
   console.log("Teenage")
